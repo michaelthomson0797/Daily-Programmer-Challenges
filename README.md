@@ -1,3 +1,2 @@
 # Daily-Programmer-Challenges
-daily programming challnges from /r/dailyprogrammer 
-www.reddit.com/r/dailyprogrammer
+My attempts at the daily programming challenges from www.reddit.com/r/dailyprogrammer
